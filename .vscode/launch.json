@@ -6,12 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OperatorsLesson",
+            "request": "launch",
+            "mainClass": "chapter2.OperatorsLesson",
+            "projectName": "ciiccb42025_16c0d314"
+        },
+        {
+            "type": "java",
             "name": "Launch with Arguments Prompt",
             "request": "launch",
             "mainClass": "",
             "args": "${command:SpecifyProgramArgs}"
         },
-
         {
             "type": "java",
             "name": "Current File",
