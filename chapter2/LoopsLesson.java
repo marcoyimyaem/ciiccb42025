@@ -25,5 +25,18 @@ public class LoopsLesson {
             }
             System.out.println();
         }
+        String[] colors ={"black","red","pink","yellow","white","blue"}; 
+        for(String color: colors)
+            System.out.println("Color: "+color);
+        ROW_TABLE: for(int p = 1;p<=10;p++){
+        COL_TABLE:      for(int l = 1;l<=10;l++){
+                            if(l==5)
+                                // break ROW_TABLE;
+                                continue ROW_TABLE;
+                            System.out.print(l*p+"\t");
+                            }
+                        System.out.println();     
+
+        }
         }
 }
