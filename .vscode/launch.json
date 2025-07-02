@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task5",
+            "request": "launch",
+            "mainClass": "otherfolder.task.Task5",
+            "projectName": "ciiccb42025_16c0d314"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListLesson",
+            "request": "launch",
+            "mainClass": "chapter3.ArrayListLesson",
+            "projectName": "ciiccb42025_16c0d314"
+        },
+        {
+            "type": "java",
             "name": "ArrayLesson",
             "request": "launch",
             "mainClass": "chapter3.ArrayLesson",
