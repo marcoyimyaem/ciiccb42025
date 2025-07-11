@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LambdaLesson",
+            "request": "launch",
+            "mainClass": "chapter4.LambdaLesson",
+            "projectName": "ciiccb42025_16c0d314"
+        },
+        {
+            "type": "java",
             "name": "Task5",
             "request": "launch",
             "mainClass": "otherfolder.task.Task5",
