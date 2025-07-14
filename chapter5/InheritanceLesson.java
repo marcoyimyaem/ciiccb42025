@@ -141,4 +141,5 @@ class FieldMouse extends Hayop implements CanBurrow,CanBurrow2{
     @Override
     void setAge(int age) {
         }
+        
 }
