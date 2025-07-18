@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExceptionLesson2",
+            "request": "launch",
+            "mainClass": "chapter6.ExceptionLesson2",
+            "projectName": "ciiccb42025_16c0d314"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionLesson3",
+            "request": "launch",
+            "mainClass": "chapter6.ExceptionLesson3",
+            "projectName": "ciiccb42025_16c0d314"
+        },
+        {
+            "type": "java",
             "name": "LambdaLesson",
             "request": "launch",
             "mainClass": "chapter4.LambdaLesson",
